@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel{
+    background-color: #fceae8;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.proddis{
+    margin-top: 140px;
+}
+.productname{
+    font-size: 50px;
+}
+.slprodprice{
+    font-size: 40px;
+    color: #e91e63;
+}
+.buynowbtn{
+    border: none;
+    padding: 10px 15px 10px 15px;
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+}
+/* advetise section */
+.watch{
+    background-color: orange;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.watch h2{
+    color: white;
+    padding-top: 42px;
+    padding-left: 20px;
+    font-size: 44px;
+}
+.bag h2{
+    color: white;
+    padding-top: 42px;
+    padding-left: 20px;
+    font-size: 44px;
+}
+.shoes h2{
+    color: white;
+    padding-top: 42px;
+    padding-left: 20px;
+    font-size: 44px;
+
+}
+.bag{
+    background-color: orchid;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.shoes{
+    background-color: blue;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/* shoes section */
+.shoeshead{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.buy-now-btn{
+    border: none;
+    padding: 10px 15px 10px 15px;
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.card{
+    box-shadow: 5px 5px 25px 25px rgba(0, 0, 0, 0.123);
+}
+/* bagpack */
+.bagpackhead{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+/* subscribe now */
+.subscribe{
+    background-color: #fceae8;
+    margin-top: 70px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 70px;
+}
+.subtext{
+    margin-left: 5rem;
+}
+.subemail{
+    margin-right: 8rem;
+    margin-right: 2rem;
+    padding: 10px 10px 10x 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 75px;
+    padding-left: 30px;
+}
